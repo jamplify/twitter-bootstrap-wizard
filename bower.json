@@ -1,6 +1,6 @@
 {
   "name": "jamplify-bootstrap-wizard",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "ignore": [
     "**/.*",
     "examples",
@@ -20,7 +20,7 @@
     "jquery": ">=1.9.1",
     "bootstrap": ">=3.3.0"
   },
-  "homepage": "https://github.com/VinceG/twitter-bootstrap-wizard",
+  "homepage": "https://github.com/jamplify/twitter-bootstrap-wizard",
   "authors": [
     "Vincent Gabriel <vadimg88@gmail.com>"
   ],
